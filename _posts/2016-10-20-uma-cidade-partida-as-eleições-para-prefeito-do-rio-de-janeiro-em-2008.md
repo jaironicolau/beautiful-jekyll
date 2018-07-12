@@ -70,7 +70,7 @@ O Gráfico 1 mostra como é intensa a relação entre o percentual de brancos e 
 
 **Gráfico 1: Percentual da população de cor branca x renda média. Bairros do Rio de Janeiro, 2010**
 
-![](/img/cidade_partida_2.png)
+![](/img/cidade_partida_3.png)
 Fonte: Censo de 2008
 
 ### 3. Renda dos bairros e voto
