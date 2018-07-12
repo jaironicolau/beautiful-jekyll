@@ -25,7 +25,8 @@ Terminado o prazo das trocas de 2018, vale a pena observar as principais mudanç
 [^1]: Um texto que também explora as trocas de legenda da Câmara dos Deputados: https://goo.gl/YPgsQW
 
 **Figura 1: Bancada dos partidos. Eleições de 2014 e 2018 (Abril).**
-![](img/troca55_figura1.png)
+
+<img src="/img/troca55_figura1.png" alt="" width="80%"/>
 
 As mudanças são intensas, com destaque para a redução da bancada do  MDB, que perdeu 15 deputados, e ficou com a menor bancada de sua história. Do outro lado, chama a atenção o crescimento do DEM, que saltou de 21 para 43 deputados, e do PP, que ganhou 12 deputados.  
 
