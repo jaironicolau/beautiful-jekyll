@@ -1,9 +1,7 @@
 ---
-
+title: Dados eleitorais do Brasil (1982-2016)
 comments: false
 ---
-
-## Dados eleitorais do Brasil (1982-2016)
 
 Em 1998 publiquei um livro, *Dados Eleitorais do Brasil (1982-2016)*, pela Editora Revan/IUPERJ, com estatísticas das eleições realizadas no país entre 1982 e 1996. A partir de 2004, os dados foram disponibilizados on-line. Desde 2012, porém, eles estão foram do ar.
 
