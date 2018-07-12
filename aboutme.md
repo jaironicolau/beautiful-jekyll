@@ -4,13 +4,16 @@ title:
 subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Jairo Nicolau. Nasci em Nova Friburgo, em 1964.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Sou professor do Departamento de Ciência Política da UFRJ desde 2011, e pesquisador do CNPQ. Minhas áreas de interesse são:
 
-What else do you need?
+- Eleições e comportamento eleitoral
+- Sistemas eleitorais e reforma política
+- Partidos políticos
+- Estatística e visualização de dados
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Formação
+
+Cursei Ciênciais Sociais na UFF (1982-1985) e mestrado (1988-1991) e doutorado (1991-1995) no antigo IUPERJ. Fui professor do IUPERJ entre 1995 e 2011.
