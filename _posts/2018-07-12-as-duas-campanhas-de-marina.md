@@ -1,5 +1,5 @@
 ---
-title: As duas campanhas de Marina
+title: As duas campanhas de Marina Silva
 author: ''
 date: '2018-07-12'
 slug: as-duas-campanhas-de-marina
@@ -17,7 +17,6 @@ Em 2010, Marina Silva concorreu pelo PV, partido sem estrutura nacional e que co
 Ao longo da campanha, Marina não chegaria a ameaçar os dois candidatos favoritos, Dilma Rouseff (PT) e José Serra (PSDB), mas seu desempenho foi surpreendente. Marina chegou em primeiro lugar no Distrito Federal com 39% dos votos, e em segundo lugar, à frente do candidato do PSDB, no Rio de Janeiro (28%), no Amapá (28%) e no Amazonas (24%).
 
 O gráfico abaixo abaixo apresenta o percentual de votos obtidos por Marina Silva por unidade da federação em 2010:
-
 
 ![](/img/marina1.png)
 
@@ -55,16 +54,4 @@ No gráfico, as cidades de  Pernambuco estão assinaladas em cor laranja. Pratic
 ![](/img/marina4.png)
 
 Na realidade, as votações de Marina em 2010 e 2014 têm um padrão muito semelhante. Ela tende a ser mais alta nas cidades com maior população e de maior nível de desenvolvimento social. O grande diferencial de 2014 foi Pernambuco. Marina não só venceu no estado, como teve votação expressiva em muitas cidades.
-
-
-
-
-
-
-
-
-
-
-
-
 
