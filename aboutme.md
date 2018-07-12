@@ -3,6 +3,9 @@ layout: page
 title:
 subtitle:
 ---
+![](/img/foto_png.png)
+
+
 
 Meu nome é Jairo Nicolau. Nasci em Nova Friburgo, em 1964.
 
