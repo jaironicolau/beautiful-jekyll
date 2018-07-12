@@ -25,7 +25,7 @@ description: Textos e dados sobre política.
 navbar-links:
   O autor: "aboutme"
   Dados Eleitorais do Brasil: "deb"
-  Textos: "textos"
+  Livros e artigos: "textos"
  
 
 # Image to show in the navigation bar - image must be a square (width = height)
