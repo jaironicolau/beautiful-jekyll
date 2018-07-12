@@ -1,16 +1,4 @@
 ---
-title: Quanto_custa2
-author: ''
-date: '2018-07-12'
-slug: quanto-custa
-categories: []
-tags:
-  - financiamento eleitoral
-  - partidos políticos
-  - Câmara dos Deputados
-subtitle: ''
----
-
 title: Quanto custa um deputado? Gasto de campanha em 2014
 author: Jairo Nicolau
 date: '2018-05-09'
