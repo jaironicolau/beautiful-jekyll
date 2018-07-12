@@ -1,8 +1,10 @@
 ---
-title: Textos selecionados (2012-2017)
+title: 
 subtitle: ''
 comments: false
 ---
+
+## Textos selecionados (2012-2017)
 
 ### Livros
 
