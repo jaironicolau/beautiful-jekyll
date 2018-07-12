@@ -1,5 +1,5 @@
 ---
-title: Dados eleitorais do Brasil (1982-2016)
+title: Dados eleitorais do Brasil
 comments: false
 ---
 
