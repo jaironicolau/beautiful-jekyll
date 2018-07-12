@@ -44,11 +44,10 @@ O percentual de votos obtidos por Marina em cada estado em 2014 é apresentado n
 O resultado de Pernambuco foi o mais impressionante, já que  Marina havia recebido apenas 18% dos votos no estado em 2010. O sucesso  deveu-se, sobretudo, à força do diretório estadual do PSB,  e ao apoio  que sua candidatura recebeu da família do ex-candidato Eduardo Campos. Em Pernambuco, Marina conquistou 10% dos seus votos (no estado residem cerca de 5% dos eleitores do país).
 
 ![](/img/marina3.png)
-Marina manteve o excelente desempenho nas grandes cidades e capitais. Entre as 20 maiores cidades, ela foi a mais votada em Recife (62%), no Rio de Janeiro (30%), em Maceió (33%) e Guarulhos (33%), e chegou em segundo lugar em outras, entre elas: Goiânia (32%), Salvador (24%) e Manaus (29%). 
 
-O gráfico abaixo mostra a associação entre o IDH e e o percentual de votos de Marina em 2014. A correlação (r de pearson = 0.12) é bem menor intensa do que a de 2010. Uma das razões é que em 2014 Marina obteve uma excelente votação em municípios com baixo IDH.  
+Marina manteve o excelente desempenho nas grandes cidades e capitais. Nas 20 maiores cidades, ela foi a mais votada em Recife (62%), no Rio de Janeiro (30%), em Maceió (33%) e Guarulhos (33%), e chegou em segundo lugar em outras, entre elas: Goiânia (32%), Salvador (24%) e Manaus (29%). 
 
-No gráfico, as cidades de  Pernambuco estão assinaladas em cor laranja. Praticamente todas as cidades em que Marina obteve mais de 40% dos votos são do estado, boa parte delas estão concentradas na faixa de menor IDH.
+O gráfico abaixo mostra a associação entre o IDH e e o percentual de votos de Marina em 2014. A correlação (r de pearson = 0.12) é bem menor intensa do que a de 2010. Uma das razões é que em 2014 Marina obteve uma excelente votação em municípios com baixo IDH.  No gráfico, as cidades de  Pernambuco estão assinaladas em cor laranja. Praticamente todas as cidades em que Marina obteve mais de 40% dos votos são do estado, boa parte delas estão concentradas na faixa de menor IDH.
 
 ![](/img/marina4.png)
 
