@@ -80,7 +80,7 @@ Esses dados podem ofercer uma pista para explicar o porquê de as campanhas sere
 [^2]: A figura mostra a probabilidade, derivada de um modelo de regressão logística, apenas com os gastos de campanha como variável independente. 
 
 
-###4. Gastos de cada deputado
+### 4. Gastos de cada deputado
 
 A Tabela abaixo apresenta o gasto de campanha de cada um dos 513 deputados eleitos em 2014. Os deputados são identificados pelos *nomes de urna*; ou seja, os nomes utilizados por eles na campanha. A penúltima coluna mostra o total de gastos (atualizadas pela inflação entre outubro de 2014 até abril de 2018). 
 
@@ -92,6 +92,62 @@ Vale a pena observar os candidatos que gastaram mais do que o teto de gastos def
   
 
 **Gasto (total e por voto) dos deputados federais eleitos em 2014**
+
+        Orlando Silva          PC do B     SP     6,265,476         69.1      
+
+       Arnaldo Jardim            PPS       SP     6,236,183         40.2      
+
+       Alfredo Kaefer           PSDB       PR     6,202,572         75.1      
+
+       Paulo Teixeira            PT        SP     6,100,638         54.8      
+
+      Rodrigo De Castro         PSDB       MG     5,948,567         20.3      
+
+        Magda Mofatto            PR        GO     5,924,153          50       
+
+       Reginaldo Lopes           PT        MG     5,835,759         18.8      
+
+       Duarte Nogueira          PSDB       SP     5,750,248         22.6      
+
+      Toninho Pinheiro           PP        MG     5,661,140         38.2      
+
+        Luiz Fernando            PP        MG     5,628,695         47.9      
+
+       Tereza Cristina           PSB       MS     5,578,275         74.2      
+
+       Alexandre Leite           DEM       SP     5,506,881         50.2      
+
+       Paulo Abi-Ackel          PSDB       MG     5,457,817         52.1      
+
+       Saraiva Felipe           PMDB       MG     5,438,557         48.9      
+
+          Heraclito              PSB       PI     5,405,202         59.5      
+
+       Guilherme Mussi           PP        SP     5,280,812         33.8      
+
+         Caio Narcio            PSDB       MG     5,259,593         52.1      
+
+        Daniel Vilela           PMDB       GO     5,206,790         29.1      
+
+      Adilton Sachetti           PSB       MT     5,009,332         44.4      
+
+        Fabio Garcia             PSB       MT     4,983,294         47.5      
+
+        Bruno Araújo            PSDB       PE     4,960,990         37.6      
+
+       Rodrigo Pacheco          PMDB       MG     4,945,538         53.3      
+
+      Jutahy Magalhães          PSDB       BA     4,928,693         45.4      
+
+         Arthur Maia             SD        BA     4,921,138         51.4      
+
+         Renzo Braz              PP        MG     4,846,338         44.3      
+
+         Bruno Covas            PSDB       SP     4,584,981          13       
+
+           Aleluia               DEM       BA     4,568,985         44.8      
+
+       Heuler Cruvinel           PSD       GO     4,555,558         50.1      
 
 
 
