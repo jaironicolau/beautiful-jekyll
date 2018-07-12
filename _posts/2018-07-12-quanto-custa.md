@@ -91,7 +91,7 @@ A última coluna apresenta o *gasto por voto*, que é o resultado da divisão do
 Vale a pena observar os candidatos que gastaram mais do que o teto de gastos definido para 2018. O total de candidatos que gastou mais de R\$ 2,5 milhões em 2014 é de 137.
   
 
-**Gasto (total e por voto) dos deputados federais eleitos em 2014**
+#### Gasto (total e por voto) dos deputados federais eleitos em 2014
 
  | Nome                        | Partido | Estado | Gasto      | Gasto_por_voto |
 |-----------------------------|---------|--------|------------|----------------|
