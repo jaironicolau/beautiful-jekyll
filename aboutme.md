@@ -13,7 +13,4 @@ Sou professor do Departamento de Ciência Política da UFRJ desde 2011, e pesqui
 - Partidos políticos
 - Estatística e visualização de dados
 
-
-### Formação
-
 Cursei Ciênciais Sociais na UFF (1982-1985) e mestrado (1988-1991) e doutorado (1991-1995) no antigo IUPERJ. Fui professor do IUPERJ entre 1995 e 2011.
