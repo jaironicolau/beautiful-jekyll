@@ -1,8 +1,11 @@
 ---
-title: Dados eleitorais do Brasil (1982-2016)
+title: 
 subtitle: 
 comments: false
 ---
+
+## Dados eleitorais do Brasil (1982-2016)
+
 Em 1998 publiquei um livro, *Dados Eleitorais do Brasil (1982-2016)*, pela Editora Revan/IUPERJ, com estatísticas das eleições realizadas no país entre 1982 e 1996. A partir de 2004, os dados foram disponibilizados on-line. Desde 2012, porém, eles estão foram do ar.
 
 Nesta página disponibilizarei os links para as planilhas (Google sheets) da antiga home-page, já atualizado para novas eleições. Inicialmente, disponibilizo o link para os resultados das eleições para presidente. Em breve será possível encontrar os dados para governador, senador, deputado federal, governador e deputado estadual. Os dados estão agregados por Unidade da Federação e Região.
