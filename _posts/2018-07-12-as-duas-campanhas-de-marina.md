@@ -4,8 +4,7 @@ author: ''
 date: '2018-07-12'
 slug: as-duas-campanhas-de-marina
 categories: []
-tags: [eleições, partidos poleiticos]
-subtitle: ''
+tags: [eleições, partidos políticos]
 ---
 
 Marina Silva é um discreto fenômeno na história das eleições presidenciais brasileiras. No pleito de 2010 ela recebeu 17.6% dos votos dos eleitores que compareceram para votar. Na eleição de 2014, sua votação subiu para 20.6%. Com esses percentuais, Marina obteve as duas melhores votações de um terceiro candidato no atual ciclo democrático. Vale a pena lembrar que em 1989, Lula passou para o segundo turno com apenas 16% dos votos.
