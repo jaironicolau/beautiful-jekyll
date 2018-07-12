@@ -28,7 +28,7 @@ Terminado o prazo das trocas de 2018, vale a pena observar as principais mudanç
 
 **Figura 1: Bancada dos partidos. Eleições de 2014 e 2018 (Abril).**
 
-![](/post/2018-04-26-mudanças-de-partido-na-câmara-dos-deputados-eleita-em-2014_files/troca55_figura1.png)
+![](img/troca55_figura1.png)
 
 As mudanças são intensas, com destaque para a redução da bancada do  MDB, que perdeu 15 deputados, e ficou com a menor bancada de sua história. Do outro lado, chama a atenção o crescimento do DEM, que saltou de 21 para 43 deputados, e do PP, que ganhou 12 deputados.  
 
@@ -40,7 +40,7 @@ A Figura 2 mostra que  a decisão do TSE, implementada em 2007, realmente inibiu
 
 **Figura 2: Percentual de deputados federais que abandonaram o partido pelo qual foram eleitos (1987-2018)**
 
-<img src="/post/2018-04-26-mudanças-de-partido-na-câmara-dos-deputados-eleita-em-2014_files/troca55_figura2.png" alt="" width="80%"/>
+<img src="/img/troca55_figura2.png" alt="" width="80%"/>
 
 Observar apenas o número de deputados de cada partido no começo e no final da legislatura pode esconder mudanças profundas na bancada de um mesmo partido. Imagine, por exemplo, uma legenda que elegeu 10 deputados e todos eles saíram ao longo do mandato, mas recebeu a adesão de outros 10 nomes. A bancada é a mesma, mas com uma composição totalmente diferente. 
 
@@ -50,7 +50,7 @@ As três legendas que mais perderam representantes em termos absolutos foram  o 
 
 **Figura 3: Total de deputados que mudou de partido**
 
-![](/post/2018-04-26-mudanças-de-partido-na-câmara-dos-deputados-eleita-em-2014_files/troca55_figura3.png)
+![](/img/troca55_figura3.png)
 
 As trocas de legenda no Brasil têm sido sempre maior em alguns estados do que em outros. O Rio Grande do Sul e Santa Catarina são, tradicionalmente, os estados em que há menor número de troca de legenda. Este padrão se repetiu na atual legislatura. Em Santa Catarina, apenas um deputado (6% da bancada) trocou de partido. No Rio Grande do Sul foram apenas dois (7% da bancada). 
 
@@ -58,8 +58,7 @@ No outro extremo, destaca-se o caso do Rio de Janeiro, onde metade da bancada mu
  
 **Figura 4: Total de deputados que mudou de partido, por estado.**
 
-![](/post/2018-04-26-mudanças-de-partido-na-câmara-dos-deputados-eleita-em-2014_files/troca55_figura4.png)
+![](/img/troca55_figura4.png)
 
 Só conheceremos o quadro completo das trocas de partido da atual legislatura no dia 31 de janeiro de 2019, quando ela será oficialmente encerrada. O que é certo é que os deputados que concorrerão nas eleições de outubro não trocarão, já que eles precisam estar filiados há pelo menos seis meses em um partido. Tradicionalmente, alguns deputados trocam de legenda depois da eleição, quase sempre, de olho na nova configuração de poder saído das urnas. Não surpreenderia se essa legislatura - que bateu tantos recordes negativos - também fosse a recordista de migração partidária.
-
 
