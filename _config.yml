@@ -23,6 +23,7 @@ description: Textos e dados sobre política.
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
   O autor: "aboutme"
   Dados Eleitorais do Brasil: "deb"
   Livros e artigos: "textos"
