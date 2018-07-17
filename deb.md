@@ -32,7 +32,7 @@ Nota: Os eleitores brasileiros que moram no exterior podem votar para Presidente
 
 2. [Comparecimento, votos nulos e em branco, 1982-2014](https://docs.google.com/spreadsheets/d/1KiOJGJewpq4BTHnbif2uTtS88AFLNdKykXaNCRayVF4/edit?usp=sharing)
 
-3. [Comparecimento, votos nulos e em branco, 1982-2014 (percentual)](https://docs.google.com/spreadsheets/d/1RIrk5Io3WOk1kf6jTvOX0ulGjz9Ts1Q5Uzok_uXZgEQ/edit?usp=sharing)
+3. [Comparecimento, votos nulos e em branco, 1982-2014(percentual)](https://docs.google.com/spreadsheets/d/1RIrk5Io3WOk1kf6jTvOX0ulGjz9Ts1Q5Uzok_uXZgEQ/edit?usp=sharing)
 
 
 
