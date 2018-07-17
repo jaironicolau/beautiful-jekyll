@@ -1,5 +1,6 @@
 ---
-title: Dados eleitorais do Brasil
+title: 
+subtitle: Dados eleitorais do Brasil
 comments: false
 ---
 
@@ -11,14 +12,28 @@ O leitor pode observar pequenas discrepâncias em relação a dados de outras fo
 
 Quando abrir os links, observe os anos da eleição na parte inferior da planilha. Em breve, tentarei uma solução mais amistosa. Por enquanto, essa foi a forma mais simples que encontrei para disponibilizar os dados de eleições anteriores para os interessados.
 
+Os dados sobre o percentual de comparecimento,  votos nulos e em branco exigem uma atenção especial. A abstenção e o comparecimento são calculados sobre o eleitorado total. Os votos nulos e em branco são calculados sobre o total dos eleitores que compareceram. Portanto, eles não podem ser somados (erro que é frequentemente cometido por alguns analistas políticos)
+
 ### Presidente 
  
-1. [Votos dos candidatos à Presidência, 1989-2014](https://docs.google.com/spreadsheets/d/1rI-Rjoe3LCbIyECnl3B_Z8DeHVWXa433dep1sL6N5xo/edit#gid=1390196068)
-2. [Votos dos candidatos à Presidência, 1989-2014 (percentual)](https://docs.google.com/spreadsheets/d/1ECvxXyZaTkC49Yktc1-CR4vs-m37CoupvWO2JLiL-0M/edit#gid=0)  
+1. [Votos dos candidatos à presidência, 1989-2014](https://docs.google.com/spreadsheets/d/1rI-Rjoe3LCbIyECnl3B_Z8DeHVWXa433dep1sL6N5xo/edit#gid=1390196068)
+
+2. [Votos dos candidatos à presidência, 1989-2014 (percentual)](https://docs.google.com/spreadsheets/d/1ECvxXyZaTkC49Yktc1-CR4vs-m37CoupvWO2JLiL-0M/edit#gid=0)  
+
 3. [Comparecimento, votos nulos e em branco, 1989-2014](https://docs.google.com/spreadsheets/d/1nIKIg1KcD2e6SNsXtJOcljWyizReZb24klfCqMxbzDo/edit#gid=1862483464)
+
 4. [Comparecimento, votos nulos e em branco, 1989-2014 (percentual)](https://docs.google.com/spreadsheets/d/1k-jqsHLOZE2DxwPluoxSHInlpbHe8_tqa6MczN4ho9w/edit#gid=1437477905)
 
 Nota: Os eleitores brasileiros que moram no exterior podem votar para Presidente. Como o total destes votos é muito reduzido e o site é organizado segundo a votação nos estados e regiões, resolvi excluí-los da compilação estatística.
+
+### Governador
+
+1. [Votos dos candidatos aos governos de estado, 1982-2014](https://docs.google.com/spreadsheets/d/1flEAmfqdhCyHGvD4phEqLuea9x4LFglAtL332QTDkhY/edit?usp=sharing)
+
+2. [Comparecimento, votos nulos e em branco, 1982-2014](https://docs.google.com/spreadsheets/d/1KiOJGJewpq4BTHnbif2uTtS88AFLNdKykXaNCRayVF4/edit?usp=sharing)
+
+3. [Comparecimento, votos nulos e em branco, 1982-2014 (percentual)]()
+
 
 
 
