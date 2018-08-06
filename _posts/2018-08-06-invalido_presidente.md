@@ -1,7 +1,7 @@
 ---
 title: 'Votos nulos e em branco nas eleições presidenciais brasileiras (1989-2014)'
 author: Jairo Nicolau
-date: '2018-08-06'
+date: ''
 slug: 
 categories: []
 tags:
