@@ -21,7 +21,7 @@ comments: false
 
 - [Trading Errors for New Errors? The Impact of Electronic Voting Technology on Party Label Votes in Brazil, *Electoral Studies*, Vol.43, 2016. ](https://www.researchgate.net/publication/301293095_Trading_old_errors_for_new_errors_The_impact_of_electronic_voting_technology_on_party_label_votes_in_Brazil)
 
-- [Impact of Electronic Voting Machines on Blank Votes and Null Votes in Brazilian Elections in 1998", *Brazilian Political Science Review*, Vol.9, n.3, 2015](https://www.researchgate.net/publication/317068192_Os_quatro_fundamentos_da_competicao_politica_no_Brasil_1994-2014_Journal_of_Democracy_em_Portugues_vol61_2017)
+- [Impact of Electronic Voting Machines on Blank Votes and Null Votes in Brazilian Elections in 1998", *Brazilian Political Science Review*, Vol.9, n.3, 2015](https://www.researchgate.net/publication/287158611_Impact_of_Electronic_Voting_Machines_on_Blank_Votes_and_Null_Votes_in_Brazilian_Elections_in_1998)
 
 - ["Determinantes do voto no primeiro turno das eleições presidenciais de 2010: Uma análise exploratória", Opinião Pública, vol.20, n.3, 2014.](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762014000300311)
 
