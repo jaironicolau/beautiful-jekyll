@@ -27,12 +27,11 @@ Os dados sobre o percentual de comparecimento,  votos nulos e em branco exigem u
 Nota: Os eleitores brasileiros que moram no exterior podem votar para Presidente. Como o total destes votos é muito reduzido e o site é organizado segundo a votação nos estados e regiões, resolvi excluí-los da compilação estatística.
 
 ### Deputado Federal
-
-Os dados das eleições de 1986 foram os mais difíceis de organizar, já que foram compilados a partir de relatórios em papel produzidos pelos Tribunais regionais Eleitorais dos Estados. O maior problema é que alguns relatórios apresentaram o voto de legenda para as coligações e não individualmente por partido. Para não perder estas informações, fiz uma projeção admitindo que o voto de legenda foi proporcional aos voto nominais obtido pelos partidos da coligação. A magnitude dos votos projetados é reduzida: Paraná (0,6%), Rondônia (2,2%), Acre (3%), Piauí (4,4%), Maranhão (3,5%), Alagoas(8,3%), Mato Grosso do Sul (8,7%) e Goiás (12,9%). No âmbito nacional, o total de votos projetados foi de 360.398 (0,8%).O mesmo procedimento foi seguido para os votos de dois estados nas eleições de 1990: Tocantins (4,8%) e Goiás (8,7%).Estes votos representam apenas 0,3% do total de votos obtidos pelos partidos em âmbito nacional.  
  
 1. [Votos dos partidos (1982-2014).](https://docs.google.com/spreadsheets/d/1gijmdywep6sKS_N6ZV5lUpF62ivoH9bJ9znJG6tHz5k/edit#gid=566543278) 
 
 2. [Votos dos partidos. Percentual (1982-2014).](https://docs.google.com/spreadsheets/d/1snh-xXPJgr1Oz78hm3XftpQEAwbf7vkYtQomH7AYcqc/edit#gid=1307016972)
+
 3. [Comparecimento, votos nulos e em branco (1982-2014).](https://docs.google.com/spreadsheets/d/1uwDbeVfyKmMNlPBFn35RIFpfdNj1yDAsgQYh2WCxAnY/edit#gid=501961062)
 
 4. [Comparecimento, votos nulos e em branco. Percentual (1982-2014).](https://docs.google.com/spreadsheets/d/1uwDbeVfyKmMNlPBFn35RIFpfdNj1yDAsgQYh2WCxAnY/edit#gid=501961062)
@@ -44,6 +43,9 @@ Os dados das eleições de 1986 foram os mais difíceis de organizar, já que fo
 7. [Votos dos partidos. Brasil (1982-2014).](https://docs.google.com/spreadsheets/d/1zaNEOx4GvqxdHSpugE4Dt7p2qy7Nm1ViWDSRWF0MZ8k/edit#gid=428738479)
 
 8. [Cadeiras dos partidos. Brasil (1982-2014).](https://docs.google.com/spreadsheets/d/1BTGBlE8e7rpKfqVayIBdLzaxzp4SQZvAJQ8h9Ex14Jw/edit#gid=1237722286) 
+
+Nota: Os dados das eleições de 1986 foram os mais difíceis de organizar, já que foram compilados a partir de relatórios em papel produzidos pelos tribunais regionais eleitorais dos estados. O maior problema é que alguns relatórios apresentaram o voto de legenda para as coligações, e não para cada partido individualmente. Para não perder estas informações, fiz uma projeção admitindo que o voto de legenda teria sido proporcional aos votos nominais obtido pelos partidos da coligação. A magnitude dos votos projetados é reduzida: Paraná (0,6%), Rondônia (2,2%), Acre (3%), Piauí (4,4%), Maranhão (3,5%), Alagoas(8,3%), Mato Grosso do Sul (8,7%) e Goiás (12,9%). No âmbito nacional, o total de votos projetados foi de 360.398 (0,8%). O mesmo procedimento foi seguido para os votos de dois estados nas eleições de 1990: Tocantins (4,8%) e Goiás (8,7%).Estes votos representam apenas 0,3% do total de votos obtidos pelos partidos em âmbito nacional.
+
 
 ### Governador
 
