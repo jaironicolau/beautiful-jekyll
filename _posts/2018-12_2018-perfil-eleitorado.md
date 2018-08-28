@@ -85,7 +85,7 @@ de instrução e sexo. Chama a atenção a alta concentração de eleitores na f
 do ensino fundamental incompleto (para os dois sexos), e na faixa do ensino
 médio completo (para as mulheres).
 
-![](/img/Quanto_custa2.png)
+![](/img/perfil_eleitorado.png)
 
 Pelas razões apresentadas brevemente nesse texto ainda não temos como conhecer
 os detalhes do perfil do eleitorado brasileiro. Em um aspecto (o sexo), sabemos
