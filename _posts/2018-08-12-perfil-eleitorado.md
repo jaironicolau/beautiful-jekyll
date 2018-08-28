@@ -1,12 +1,11 @@
 ---
 title: Qual é o perfil do eleitorado brasileiro
-author: ''
+author: 'Jairo Nicolau'
 date: '2018-07-18'
 slug: perfil-eleitorado
 categories: []
 tags: [eleitorado, eleições]
 ---
-
 Existem duas formas de tentar responder à pergunta que dá título a esse artigo.
 A primeira delas é: utilize os dados demográficos (Censo e Pnad) dos adultos.
 Como o registro de eleitores é compulsório partir dos 18 anos, a expectativa é
@@ -26,8 +25,7 @@ mostram que os analfabetos também foram menos às urnas do que outros segmentos
 cerca de 63% dos analfabetos compareceram para votar, enquanto nas outras faixas
 de escolaridade o comparecimento esteve na faixa de 85%.[^2]
 
-[^1]: <http://www.tse.jus.br/eleitor/estatisticas-de-eleitorado/estatistica-do-eleitorado-por-sexo-e-grau-de-instrucao>.
-E
+[^1]: Ver: <http://www.tse.jus.br/eleitor/estatisticas-de-eleitorado/estatistica-do-eleitorado-por-sexo-e-grau-de-instrucao>; e
 <http://www.brasil.gov.br/economia-e-emprego/2011/11/censo-2010-cai-taxa-de-analfabetismo-no-pais>
 
 [^2]: Faço referência aos dados de 2012, pois é o banco mais detalhado já
