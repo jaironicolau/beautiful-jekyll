@@ -1,8 +1,6 @@
-**Qual é o perfil do eleitorado brasileiro?**
+---
 
-\---
-
-title: Qual é o perfil d eleitorado brasileiro
+title: Qual é o perfil do eleitorado brasileiro
 
 author: ''
 
@@ -14,7 +12,7 @@ categories: []
 
 tags: [eleitorado, eleições]
 
-\---
+---
 
 Existem duas formas de tentar responder à pergunta que dá título a esse artigo.
 A primeira delas é: utilize os dados demográficos (Censo e Pnad) dos adultos.
