@@ -1,17 +1,10 @@
 ---
-
 title: Qual é o perfil do eleitorado brasileiro
-
 author: ''
-
 date: '2018-07-18'
-
 slug: perfil-eleitorado
-
 categories: []
-
 tags: [eleitorado, eleições]
-
 ---
 
 Existem duas formas de tentar responder à pergunta que dá título a esse artigo.
