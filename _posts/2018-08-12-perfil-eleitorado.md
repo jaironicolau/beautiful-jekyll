@@ -1,5 +1,5 @@
 ---
-title: Qual é o perfil do eleitorado brasileiro
+title: Qual é o perfil do eleitorado brasileiro?
 author: 'Jairo Nicolau'
 date: '2018-08-12'
 slug: perfil-eleitorado
@@ -25,11 +25,9 @@ mostram que os analfabetos também foram menos às urnas do que outros segmentos
 cerca de 63% dos analfabetos compareceram para votar, enquanto nas outras faixas
 de escolaridade o comparecimento esteve na faixa de 85%.[^2]
 
-[^1]: Ver: <http://www.tse.jus.br/eleitor/estatisticas-de-eleitorado/estatistica-do-eleitorado-por-sexo-e-grau-de-instrucao>; e
-<http://www.brasil.gov.br/economia-e-emprego/2011/11/censo-2010-cai-taxa-de-analfabetismo-no-pais>
+[^1]: Ver: <http://www.tse.jus.br/eleitor/estatisticas-de-eleitorado/estatistica-do-eleitorado-por-sexo-e-grau-de-instrucao>; e <http://www.brasil.gov.br/economia-e-emprego/2011/11/censo-2010-cai-taxa-de-analfabetismo-no-pais>
 
-[^2]: Faço referência aos dados de 2012, pois é o banco mais detalhado já
-disponibilizado pela Justiça eleitoral sobre o tema.
+[^2]: Faço referência aos dados de 2012, pois é o banco mais detalhado já disponibilizado pela Justiça eleitoral sobre o tema.
 
 O fato de o voto ser facultativo para os eleitores com mais de 70 anos não
 deveria afetar o perfil do eleitorado, já que eles já estão inscritos desde
@@ -66,8 +64,7 @@ eleitoral. Novamente, vale uma comparação com os dados de 2010; segundo o Cens
 havia 7.9% de adultos com curso superior; entre os eleitores o total era de
 3.8%.
 
-[^3]: Eventualmente, por conta de uma mudança de domicilio eleitoral ou
-recadastramento eleitoral, esses dados podem ser atualizados.
+[^3]: Eventualmente, por conta de uma mudança de domicilio eleitoral ou do recadastramento eleitoral, esses dados podem ser atualizados.
 
 De qualquer modo, vale a pena observar a distribuição do eleitorado brasileiro
 por escolaridade segundo os dados do TSE. A Figura 2 mostra o eleitorado
