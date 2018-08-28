@@ -63,7 +63,7 @@ dos inscritos para votar em 2018. Apenas entre os jovens de 16 e 17 anos
 observamos um equilíbrio entre os dois sexos, nos demais, o predomínio feminino
 é claro.
 
-![Macintosh HD:Users:jaironicolau1:Dropbox:notebooks:fig4.png](media/image1.png)
+![](/img/Quanto_custa2.png)
 
 Os dados do TSE sobre o grau de instrução dos eleitores, porém, devem ser vistos
 com muito cuidado. A razão é muito simples. A idade que consta do cadastro é a
@@ -85,7 +85,7 @@ de instrução e sexo. Chama a atenção a alta concentração de eleitores na f
 do ensino fundamental incompleto (para os dois sexos), e na faixa do ensino
 médio completo (para as mulheres).
 
-![Macintosh HD:Users:jaironicolau1:Dropbox:notebooks:fig2.png](media/image2.png)
+![](/img/Quanto_custa2.png)
 
 Pelas razões apresentadas brevemente nesse texto ainda não temos como conhecer
 os detalhes do perfil do eleitorado brasileiro. Em um aspecto (o sexo), sabemos
