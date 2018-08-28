@@ -1,7 +1,7 @@
 ---
 title: Qual é o perfil do eleitorado brasileiro
 author: 'Jairo Nicolau'
-date: '2018-07-18'
+date: '2018-08-12'
 slug: perfil-eleitorado
 categories: []
 tags: [eleitorado, eleições]
