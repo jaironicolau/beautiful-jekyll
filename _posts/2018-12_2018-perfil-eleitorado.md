@@ -63,7 +63,7 @@ dos inscritos para votar em 2018. Apenas entre os jovens de 16 e 17 anos
 observamos um equilíbrio entre os dois sexos, nos demais, o predomínio feminino
 é claro.
 
-![](/img/Quanto_custa2.png)
+![](/img/perfil_eleitorado1.png)
 
 Os dados do TSE sobre o grau de instrução dos eleitores, porém, devem ser vistos
 com muito cuidado. A razão é muito simples. A idade que consta do cadastro é a
