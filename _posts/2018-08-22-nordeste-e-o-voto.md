@@ -26,9 +26,7 @@ turno das eleições presidenciais. Ainda que Dilma Rousseff em tenha obtido em
 2010 e 2014 um percentual levemente menor do que Lula, a ideia de reduto se
 manteve. O Nordeste passou a ser o território petista.
 
- 
-
-Figura1
+![](/img/Quanto_custa1.png)
 
 No primeiro turno das eleições de 2014, 27% dos eleitores que compareceram para
 votar moravam no Nordeste. Desse modo, um candidato que recebe 50% dos votos na
@@ -50,7 +48,7 @@ candidato, pode vir a acontecer, e essa é a aposta de diversos analistas. Mas
 gostaria de chamar a atenção para alguns fatores que podem afetar a intensidade
 da transferência de votos no principal reduto petista.
 
-**1. No lugar da campanha plebiscitária, entra o que?**
+### 1. No lugar da campanha plebiscitária, entra o que?
 
 O reduto petista no Nordeste foi consolidado quando o partido estava à frente da
 presidência. As eleições de 2006, 2010 e 2014 tiveram uma caráter plebiscitário
@@ -67,7 +65,7 @@ torno de uma nova agenda: os que defendem a “volta do PT” versus os que são
 “contra a volta do PT”. A polarização pode ter um papel fundamental para
 impulsionar a transferência de votos no Nordeste.
 
-**2. A barreira Ciro Gomes**
+### 2. A barreira Ciro Gomes
 
 Nas três últimas eleições, o PT praticamente não teve adversários no Nordeste. A
 votação do PSDB, com exceção das duas vitórias de Fernando Henrique, têm sido
@@ -83,7 +81,7 @@ Ainda é cedo para falar sobre o desempenho de Marina e Bolsonaro no Nordeste, j
 que a expectativa é que o crescimento do candidato petista “avance” sobre os
 votos que hoje esses candidatos obtêm na região.
 
-**3. Votos nulos e em branco**
+### 3. Votos nulos e em branco
 
 No primeiro turno de 2014 havia uma expectativa de que os votos inválidos (soma
 de nulos e em branco) poderia crescer. Como tradicionalmente os votos inválidos
@@ -92,9 +90,7 @@ poderia afetar a candidatura de Dilma Rousseff. Mas como mostra a Figura 2, isso
 não aconteceu. O percentual de votos nulos e em branco foi praticamente o mesmo
 das eleições anteriores.
 
- 
-
-Figura2
+![](/img/Quanto_custa1.png)
 
 A minha expectativa é que os votos nulos por protesto cresçam nas eleições de
 2018, repetindo um padrão já observado nas eleições municipais de 2014. Mas o
