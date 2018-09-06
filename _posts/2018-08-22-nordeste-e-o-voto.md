@@ -1,4 +1,11 @@
-**O Nordeste e o voto do PT para presidente em 2018**
+---
+title: O Nordeste e o voto do PT para presidente em 2018
+author: 'Jairo Nicolau'
+date: '2018-08-12'
+slug: perfil-eleitorado
+categories: []
+tags: [Nordeste, eleições]
+---
 
 Até 2002, não tínhamos o hábito de usar as regiões para falar de redutos
 eleitorais. Nas disputas para presidente, redutos eram os estados. Em 1989,
