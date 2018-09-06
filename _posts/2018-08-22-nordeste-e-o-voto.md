@@ -53,7 +53,7 @@ da transferência de votos no principal reduto petista.
 O reduto petista no Nordeste foi consolidado quando o partido estava à frente da
 presidência. As eleições de 2006, 2010 e 2014 tiveram uma caráter plebiscitário
 (a favor ou contra as política públicas do governo petista), que não estará
-presente em 2014, já que o governo Temer não tem defensores.
+presente em 2018, já que o governo Temer não tem defensores.
 
 A poucos dias do começo do horário eleitoral os temas centrais da campanha ainda
 não estão postos. Será a divisão entre os que apoiam e rejeitam Bolsonaro? Ou a
@@ -93,7 +93,7 @@ das eleições anteriores.
 ![](/img/Quanto_custa1.png)
 
 A minha expectativa é que os votos nulos por protesto cresçam nas eleições de
-2018, repetindo um padrão já observado nas eleições municipais de 2014. Mas o
+2018, repetindo um padrão já observado nas eleições municipais de 2016. Mas o
 que deve preocupar os dirigentes petistas é um outo tipo de voto inválido, fruto
 da desinformação e do erro.
 
