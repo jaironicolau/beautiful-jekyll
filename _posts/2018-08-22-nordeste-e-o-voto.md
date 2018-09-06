@@ -26,7 +26,7 @@ turno das eleições presidenciais. Ainda que Dilma Rousseff em tenha obtido em
 2010 e 2014 um percentual levemente menor do que Lula, a ideia de reduto se
 manteve. O Nordeste passou a ser o território petista.
 
-![](/img/Quanto_custa1.png)
+![](/img/nordeste_voto1.png)
 
 No primeiro turno das eleições de 2014, 27% dos eleitores que compareceram para
 votar moravam no Nordeste. Desse modo, um candidato que recebe 50% dos votos na
@@ -90,7 +90,7 @@ poderia afetar a candidatura de Dilma Rousseff. Mas como mostra a Figura 2, isso
 não aconteceu. O percentual de votos nulos e em branco foi praticamente o mesmo
 das eleições anteriores.
 
-![](/img/Quanto_custa1.png)
+![](/img/nordeste_voto2.png)
 
 A minha expectativa é que os votos nulos por protesto cresçam nas eleições de
 2018, repetindo um padrão já observado nas eleições municipais de 2016. Mas o
