@@ -24,7 +24,7 @@ escolaridade, segundo o sexo dos eleitores. As linhas verticais na parte
 superior da barra mostram a margem de erro de cada estimativa.
 
  
-![](/img/ibope1_voto_escoalridade.png)
+![](/img/ibope_setembro1.png)
 
 Dois aspectos chamam a atenção no gráfico. O primeiro é que a votação de
 Bolsonaro segue padrão similar do PSDB/Marina nas eleições anteriores: tende a
@@ -50,7 +50,7 @@ homens com ensino médio e superior a faixa de indecisos já está abaixo de 20
 pontos, mas entre as mulheres é mais alta, oscilando em torno de de 30%.
 
  
-![](/img/inbope2_voto_escolarida.png)
+![](/img/ibope_setembro2.png)
 
  
 Por enquanto, observamos uma semelhança entre o padrão de voto de Bolsonaro em
