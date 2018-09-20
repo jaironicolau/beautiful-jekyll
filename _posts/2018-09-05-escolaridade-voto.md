@@ -1,4 +1,3 @@
-
 ---
 title: Escolaridade e voto na disputa presidencial de 2018
 author: 'Jairo Nicolau'
