@@ -1,4 +1,5 @@
 ---
+---
 title: Escolaridade e voto na disputa presidencial de 2018
 author: 'Jairo Nicolau'
 date: '2018-08-12'
@@ -24,8 +25,7 @@ escolaridade, segundo o sexo dos eleitores. As linhas verticais na parte
 superior da barra mostram a margem de erro de cada estimativa.
 
  
-
-figura
+![](/img/perfil_eleitorado1.png)
 
 Dois aspectos chamam a atenção no gráfico. O primeiro é que a votação de
 Bolsonaro segue padrão similar do PSDB/Marina nas eleições anteriores: tende a
@@ -51,11 +51,9 @@ homens com ensino médio e superior a faixa de indecisos já está abaixo de 20
 pontos, mas entre as mulheres é mais alta, oscilando em torno de de 30%.
 
  
-
-figura
+![](/img/perfil_eleitorado1.png)
 
  
-
 Por enquanto, observamos uma semelhança entre o padrão de voto de Bolsonaro em
 2018 e do PSDB e de Marina nas eleições anteriores. Isso, ajuda a explicar a
 dificuldade que os dois candidatos estão enfrentando até o momento. Do outro
