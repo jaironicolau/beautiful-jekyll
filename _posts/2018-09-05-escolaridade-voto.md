@@ -52,8 +52,7 @@ pontos, mas entre as mulheres é mais alta, oscilando em torno de de 30%.
  
 ![](/img/ibope_setembro2.png)
 
- 
-Por enquanto, observamos uma semelhança entre o padrão de voto de Bolsonaro em
+ Por enquanto, observamos uma semelhança entre o padrão de voto de Bolsonaro em
 2018 e do PSDB e de Marina nas eleições anteriores. Isso, ajuda a explicar a
 dificuldade que os dois candidatos estão enfrentando até o momento. Do outro
 lado, o voto dos eleitores de baixa renda e escolaridade está fragmentado e sem
