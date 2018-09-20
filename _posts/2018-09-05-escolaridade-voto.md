@@ -50,7 +50,7 @@ homens com ensino médio e superior a faixa de indecisos já está abaixo de 20
 pontos, mas entre as mulheres é mais alta, oscilando em torno de de 30%.
 
  
-![](/img/ibope2_voto_escoalridade.png)
+![](/img/inbope2_voto_escolarida.png)
 
  
 Por enquanto, observamos uma semelhança entre o padrão de voto de Bolsonaro em
