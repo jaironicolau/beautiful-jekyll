@@ -2,7 +2,7 @@
 title: O Nordeste e o voto do PT para presidente em 2018
 author: 'Jairo Nicolau'
 date: '2018-08-12'
-slug: perfil-eleitorado
+slug: nordeste-e-o-voto
 categories: []
 tags: [Nordeste, eleições]
 ---
