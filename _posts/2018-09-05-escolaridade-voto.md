@@ -1,4 +1,12 @@
 
+---
+title: Escolaridade e voto na disputa presidencial de 2018
+author: 'Jairo Nicolau'
+date: '2018-08-12'
+slug:escolaridade-voto
+categories: []
+tags: [eleições, pesquisas de opinião]
+---
 
 Muitos estudiosos das eleições no Brasil já mostraram a existência de um padrão
 de voto nas últimas três eleições presidenciais. Os votos para o candidato e
