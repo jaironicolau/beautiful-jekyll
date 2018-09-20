@@ -1,4 +1,4 @@
-Escolaridade e voto na disputa presidencial de 2018
+
 
 Muitos estudiosos das eleições no Brasil já mostraram a existência de um padrão
 de voto nas últimas três eleições presidenciais. Os votos para o candidato e
