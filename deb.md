@@ -56,5 +56,10 @@ Nota: Os dados das eleições de 1986 foram os mais difíceis de organizar, já 
 3. [Comparecimento, votos nulos e em branco, 1982-2014(percentual)](https://docs.google.com/spreadsheets/d/1RIrk5Io3WOk1kf6jTvOX0ulGjz9Ts1Q5Uzok_uXZgEQ/edit?usp=sharing)
 
 
+## Senador
 
+1. [Votos obtidos pelos candidatos ao Senado (1994-2014)](https://docs.google.com/spreadsheets/d/1Q7Y4WK3zFTHoe47IbxYGdyAc9o8d1K_44yhV5F_V60M/edit#gid=1139286592)
+
+Nota: Obtive apenas os os resultados completos da votação dos  candidatos ao Senado para 1982, 1986, 1990. Assim, os dados discriminados pelos candidatos são apresentados somente a partir de 1994.
+Não foi possível padronizar a forma de apresentação dos nomes dos candidatos, já que a estatística oficial os apresentou de diversas maneiras (nome completo, nome resumido e nome político). Para 1998 e 2002, não obtive a lista de partidos que, eventualmente, participou da coligação para o Senado, mas apenas o partido dos candidatos.
 
