@@ -12,8 +12,9 @@ O leitor pode observar pequenas discrepâncias em relação a dados de outras fo
 
 Quando abrir os links, observe os anos da eleição na parte inferior da planilha. Em breve, tentarei uma solução mais amistosa. Por enquanto, essa foi a forma mais simples que encontrei para disponibilizar os dados de eleições anteriores para os interessados.
 
-Os dados sobre o percentual de comparecimento,  votos nulos e em branco exigem uma atenção especial. A abstenção e o comparecimento são calculados sobre o eleitorado total. Os votos nulos e em branco são calculados sobre o total dos eleitores que compareceram. Portanto, eles não podem ser somados (erro que é frequentemente cometido por alguns analistas políticos)
+Os dados sobre o percentual de comparecimento,  votos nulos e em branco exigem uma atenção especial. A abstenção e o comparecimento são calculados sobre o eleitorado total. Os votos nulos e em branco são calculados sobre o total dos eleitores que compareceram. Portanto, eles não podem ser somados (erro que é frequentemente cometido por alguns analistas políticos).
 
+---------------
 ### Presidente 
  
 1. [Votos dos candidatos à presidência, 1989-2014](https://docs.google.com/spreadsheets/d/1rI-Rjoe3LCbIyECnl3B_Z8DeHVWXa433dep1sL6N5xo/edit#gid=1390196068)
@@ -26,6 +27,7 @@ Os dados sobre o percentual de comparecimento,  votos nulos e em branco exigem u
 
 Nota: Os eleitores brasileiros que moram no exterior podem votar para Presidente. Como o total destes votos é muito reduzido e o site é organizado segundo a votação nos estados e regiões, resolvi excluí-los da compilação estatística.
 
+-------------------
 ### Deputado Federal
  
 1. [Votos dos partidos (1982-2014).](https://docs.google.com/spreadsheets/d/1gijmdywep6sKS_N6ZV5lUpF62ivoH9bJ9znJG6tHz5k/edit#gid=566543278) 
@@ -46,7 +48,7 @@ Nota: Os eleitores brasileiros que moram no exterior podem votar para Presidente
 
 Nota: Os dados das eleições de 1986 foram os mais difíceis de organizar, já que foram compilados a partir de relatórios em papel produzidos pelos tribunais regionais eleitorais dos estados. O maior problema é que alguns relatórios apresentaram o voto de legenda para as coligações, e não para cada partido individualmente. Para não perder estas informações, fiz uma projeção admitindo que o voto de legenda teria sido proporcional aos votos nominais obtido pelos partidos da coligação. A magnitude dos votos projetados é reduzida: Paraná (0,6%), Rondônia (2,2%), Acre (3%), Piauí (4,4%), Maranhão (3,5%), Alagoas(8,3%), Mato Grosso do Sul (8,7%) e Goiás (12,9%). No âmbito nacional, o total de votos projetados foi de 360.398 (0,8%). O mesmo procedimento foi seguido para os votos de dois estados nas eleições de 1990: Tocantins (4,8%) e Goiás (8,7%).Estes votos representam apenas 0,3% do total de votos obtidos pelos partidos em âmbito nacional.
 
-
+----------------
 ### Governador
 
 1. [Votos dos candidatos aos governos de estado, 1982-2014](https://docs.google.com/spreadsheets/d/1flEAmfqdhCyHGvD4phEqLuea9x4LFglAtL332QTDkhY/edit?usp=sharing)
@@ -55,7 +57,7 @@ Nota: Os dados das eleições de 1986 foram os mais difíceis de organizar, já 
 
 3. [Comparecimento, votos nulos e em branco, 1982-2014(percentual)](https://docs.google.com/spreadsheets/d/1RIrk5Io3WOk1kf6jTvOX0ulGjz9Ts1Q5Uzok_uXZgEQ/edit?usp=sharing)
 
-
+--------------
 ## Senador
 
 1. [Votos obtidos pelos candidatos ao Senado (1994-2014)](https://docs.google.com/spreadsheets/d/1Q7Y4WK3zFTHoe47IbxYGdyAc9o8d1K_44yhV5F_V60M/edit#gid=1139286592)
