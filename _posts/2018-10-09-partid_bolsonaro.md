@@ -4,7 +4,7 @@ author: 'Jairo Nicolau'
 date: '2018-10-10'
 slug: partid_bolsonaro
 categories: []
-tags: [eleições, partidos, Bolsonaro]
+tags: [eleições, partidos políticos, Bolsonaro]
 ---
 
 Cada eleitor deve ter um resultado que considera mais surpreendente na eleição
