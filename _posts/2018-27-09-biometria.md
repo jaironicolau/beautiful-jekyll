@@ -1,3 +1,12 @@
+---
+title: Quem diz biometria, não diz manipulação
+author: 'Jairo Nicolau'
+date: '2018-09-27'
+slug: biometria
+categories: []
+tags: [eleições, biometria]
+---
+
 A exclusão de 3,3 milhões de eleitores após o recadastramento biométrico feito
 até os primeiros meses desse ano deu margem a uma série de interpretações. Uma
 delas sustenta que como um grande número de títulos excluídos concentra-se no
