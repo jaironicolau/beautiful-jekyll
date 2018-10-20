@@ -1,5 +1,5 @@
 ---
-title: O Partido de Bolsonaro
+title: Bolsonaro e o seu partido
 author: 'Jairo Nicolau'
 date: '2018-10-10'
 slug: partid_bolsonaro
