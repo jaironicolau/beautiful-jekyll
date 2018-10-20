@@ -1,4 +1,11 @@
- 
+---
+title: Bolsonaro e o seu partido
+author: 'Jairo Nicolau'
+date: '2018-10-10'
+slug: partid_bolsonaro
+categories: []
+tags: [eleições, partidos, Bolsonaro]
+---
 
 Cada eleitor deve ter um resultado que considera mais surpreendente na eleição
 de 2018. Para uns, deve ter sido a votação obtida por Jair Bolsonaro. Para
@@ -21,7 +28,7 @@ três legendas que dominaram a política brasileira nas duas últimas décadas: 
 PSDB e MDB. A figura abaixo mostra a votação obtida pelos partidos na disputa
 para a Câmara dos Deputados.
 
-~   Rplot
+
 
 Na divulgação dos resultados, a ênfase recaiu no fato de o PSL ter conseguido a
 segunda maior bancada (52 deputados), atrás do PT, que obteve 56 cadeiras. Mas
