@@ -28,7 +28,7 @@ três legendas que dominaram a política brasileira nas duas últimas décadas: 
 PSDB e MDB. A figura abaixo mostra a votação obtida pelos partidos na disputa
 para a Câmara dos Deputados.
 
-
+![](/img/bolsonaro_partido.png)
 
 Na divulgação dos resultados, a ênfase recaiu no fato de o PSL ter conseguido a
 segunda maior bancada (52 deputados), atrás do PT, que obteve 56 cadeiras. Mas
