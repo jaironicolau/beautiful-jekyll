@@ -1,4 +1,11 @@
- 
+---
+title: O partido de Bolsonaro
+author: 'Jairo Nicolau'
+date: '2018-27-09'
+slug: partid_bolsonaro
+categories: []
+tags: [eleições, Bolsonaro, partidos políticos]
+--- 
 
 Cada eleitor deve ter um resultado que considera mais surpreendente na eleição
 de 2018. Para uns, deve ter sido a votação obtida por Jair Bolsonaro. Para
