@@ -27,10 +27,43 @@ Por isso, é curioso que o Congresso Nacional tenha aprovado uma regra que, ao f
 
 Para dimensionar os efeitos das novas regras sobre as bancadas dos partidos na Câmara dos Deputados fiz um exercício simples. Tomei a votação obtida pelos partidos/coligações em 2018 para recalcular as cadeiras, caso a fórmula antiga ainda estivesse em vigor. Desse modo, foi possível observar quais partidos ganharam e quais perderam com a implementação das novas regras. 
 
+| Partido       | Total de cadeiras em 2018 | Total de cadeiras com   a fórmula antiga | Diferença |
+|---------------|---------------------------|------------------------------------------|:---------:|
+| PT            | 56                        | 54                                       |      2    |
+| PSL           | 52                        | 59                                       |     -7    |
+| PP            | 37                        | 36                                       |     1     |
+| MDB           | 34                        | 35                                       |     -1    |
+| PSD           | 34                        | 37                                       |     -3    |
+| PR            | 33                        | 34                                       |     -1    |
+| PSB           | 32                        | 30                                       |     2     |
+| PRB           | 30                        | 33                                       |     -3    |
+| DEM           | 29                        | 27                                       |     2     |
+| PSDB          | 29                        | 32                                       |     -3    |
+| PDT           | 28                        | 25                                       |     3     |
+| SOLIDARIEDADE | 13                        | 14                                       |     -1    |
+| PODE          | 11                        | 11                                       |     0     |
+| PTB           | 10                        | 11                                       |     -1    |
+| PSOL          | 10                        | 9                                        |     1     |
+| PC do B       | 9                         | 8                                        |     1     |
+| PPS           | 8                         | 9                                        |     -1    |
+| PROS          | 8                         | 8                                        |     0     |
+| NOVO          | 8                         | 8                                        |     0     |
+| PSC           | 8                         | 8                                        |     0     |
+| AVANTE        | 7                         | 6                                        |     1     |
+| PHS           | 6                         | 4                                        |     2     |
+| PATRI         | 5                         | 4                                        |     1     |
+| PRP           | 4                         | 2                                        |     2     |
+| PV            | 4                         | 4                                        |     0     |
+| PMN           | 3                         | 3                                        |     0     |
+| PTC           | 2                         | 1                                        |     1     |
+| DC            | 1                         | 0                                        |     1     |
+| REDE          | 1                         | 0                                        |     1     |
+| PPL           | 1                         | 1                                        |     0     |
+
+
 Se a antiga fórmula eleitoral estivesse em vigor, haveria 36 mudanças na composição da Câmara dos Deputados; ou seja, esse é o número de deputados que seriam substituídos por outros. Desse total, apenas oito cadeiras foram afetadas pela regra dos 10%, e as outras 28 pelo fim da exigência de o partido/coligação ultrapassar o quociente eleitoral.
 
-
-O gráfico acima mostra a distribuição de cadeiras da Câmara dos Deputados que resultou das eleições de 2018 e as variações nas bancadas se adotássemos as regras anteriores. O número total de partidos seria praticamente o mesmo. Nas eleições de 2018, 30 partidos conseguiram eleger representantes para Câmara dos Deputados; com a fórmula antiga, dois partidos, DC e Rede, perderiam seus deputados. 
+A tabela acima mostra a distribuição de cadeiras da Câmara dos Deputados que resultou das eleições de 2018 e as variações nas bancadas se adotássemos as regras anteriores. O número total de partidos seria praticamente o mesmo. Nas eleições de 2018, 30 partidos conseguiram eleger representantes para Câmara dos Deputados; com a fórmula antiga, dois partidos, DC e Rede, perderiam seus deputados. 
 
 O PSL foi o mais prejudicado pela mudança da fórmula eleitoral. O partido elegeu 52 deputados, mas pela regra anterior teria ficado com 59 deputados, conquistando a maior bancada na Câmara dos Deputados. Em 2018, o PSL perdeu sete cadeiras em São Paulo, por conta da regra do 10%. O quociente eleitoral no estado foi de 301.460 votos; para ser apto, um deputado necessitava obter 10% desse valor (30.146 votos). Sete candidatos do PSL, que teriam sido eleitos, obtiveram menos votos do que o patamar exigido. Desse modo, o PSL perdeu sete cadeiras.
 
