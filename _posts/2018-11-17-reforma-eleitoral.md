@@ -29,3 +29,16 @@ Para dimensionar os efeitos das novas regras sobre as bancadas dos partidos na C
 
 Se a antiga fórmula eleitoral estivesse em vigor, haveria 36 mudanças na composição da Câmara dos Deputados; ou seja, esse é o número de deputados que seriam substituídos por outros. Desse total, apenas oito cadeiras foram afetadas pela regra dos 10%, e as outras 28 pelo fim da exigência de o partido/coligação ultrapassar o quociente eleitoral.
 
+
+O gráfico acima mostra a distribuição de cadeiras da Câmara dos Deputados que resultou das eleições de 2018 e as variações nas bancadas se adotássemos as regras anteriores. O número total de partidos seria praticamente o mesmo. Nas eleições de 2018, 30 partidos conseguiram eleger representantes para Câmara dos Deputados; com a fórmula antiga, dois partidos, DC e Rede, perderiam seus deputados. 
+
+O PSL foi o mais prejudicado pela mudança da fórmula eleitoral. O partido elegeu 52 deputados, mas pela regra anterior teria ficado com 59 deputados, conquistando a maior bancada na Câmara dos Deputados. Em 2018, o PSL perdeu sete cadeiras em São Paulo, por conta da regra do 10%. O quociente eleitoral no estado foi de 301.460 votos; para ser apto, um deputado necessitava obter 10% desse valor (30.146 votos). Sete candidatos do PSL, que teriam sido eleitos, obtiveram menos votos do que o patamar exigido. Desse modo, o PSL perdeu sete cadeiras.
+
+O gráfico apresenta assim o quadro final de perdas e ganhos em âmbito nacional. O número de mudanças nos estados é maior, mas em muitos casos um partido compensou o fato de perder uma cadeira em um estado com a conquista de uma cadeira em outro. Caso a antiga fórmula eleitoral estivesse em vigor, o PSL, por exemplo, conquistaria uma cadeira a mais no Rio de Janeiro, mas perderia uma cadeira em Rondônia.
+
+A observação do gráfico, afinal, pode dar a impressão de que as mudanças na regra de distribuição de cadeiras que passaram a vigorar em 2018 tiveram efeito meramente marginal na composição da Câmara dos Deputados. Independentemente da magnitude dos efeitos, duas lições ficam para o debate sobre o sistema eleitoral.
+
+A primeira é que — como é frequente observar em reformas eleitorais feitas em outros países — os legisladores podem aprovar regras cujos efeitos sejam contrários ao pretendidos. No caso, não fazia nenhum sentido aumentar as chances de os pequenos partidos elegerem representantes e, simultaneamente, adotar uma cláusula de desempenho de 1,5%. 
+
+A segunda lição é que exigir que deputados e vereadores tenham uma votação mínima para serem eleitos viola o princípio da representação proporcional. Provavelmente, algum ator político questionará a constitucionalidade da regra. A perda das cadeiras do PSL em São Paulo mostra que, sob a perspectiva da representação partidária, melhor mesmo seria correr o risco de ter um novo Vanderley Assis.
+
