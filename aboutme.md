@@ -7,7 +7,7 @@ subtitle:
 
 Meu nome é Jairo Nicolau. Nasci em Nova Friburgo, em 1964.
 
-Sou professor do Departamento de ciência política da UFRJ desde 2011, e pesquisador do CNPq. Minhas áreas de interesse são:
+Sou pesquisados do CPDOC (FGV) e pesquisador do CNPq. Minhas áreas de interesse são:
 
 - Eleições e comportamento eleitoral
 - Sistemas eleitorais e reforma política
