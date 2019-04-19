@@ -119,8 +119,8 @@ de ajuste dos dados (linear) observamos que O PT também obteve uma votação (8
 milhões de votos) acima do que seria esperado pela receita disponível para o
 partido (R\$ 102 milhões).
 
+![](/img/fig2_versao_R.png)
 
- 
 Em contraste, os dois partidos com as maiores receitas, o MDB (R\$135,5) e o PP
 (R\$ 135) receberam uma votação bem inferior ao esperado. O MDB obteve a sexta
 votação (5,1 milhões de votos) e o PP a sétima (5 milhões de votos). A
