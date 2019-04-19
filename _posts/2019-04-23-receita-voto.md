@@ -1,16 +1,11 @@
 ---
-title: "O novo fundo eleitoral e as eleições de 2018 para a Câmara dos Deputados
-"
-author: "Jairo Nicolau"
-date: "4/19/2019"
-output:
-  html_document: 
-    keep_md: yes
-  pdf_document: default
+title: O novo fundo eleitoral e as eleições de 2018 para a Câmara dos Deputados
+author: 'Jairo Nicolau'
+date: '2019-04-19'
+slug: reforma-eleitoral
+categories: []
+tags: [eleições, partidos políticos, Câmara dos Deputados, financiamento campanha]
 ---
-
-
-
 
 Na noite de 04 de outubro de 2017, a Câmara dos Deputados aprovou a proposta -
 que já havia sido aprovada pelo Senado - de criação do Fundo Especial de
