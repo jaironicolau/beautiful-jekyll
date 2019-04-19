@@ -100,7 +100,7 @@ atenção na Figura 1 é a situação do NOVO, partido que não utilizou nenhum
 recurso do fundo partidário e do fundo eleitoral.
 
 
-![](nexo_paper_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+![](/img/fig1_receita-partido-tipo-de-fonte-2018.png)
 
  
 A capacidade de um partido eleger deputados depende de uma série de fatores, e o
@@ -120,7 +120,6 @@ milhões de votos) acima do que seria esperado pela receita disponível para o
 partido (R\$ 102 milhões).
 
 
-![](/img/marina3.png)
  
 Em contraste, os dois partidos com as maiores receitas, o MDB (R\$135,5) e o PP
 (R\$ 135) receberam uma votação bem inferior ao esperado. O MDB obteve a sexta
