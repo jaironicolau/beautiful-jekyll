@@ -120,8 +120,7 @@ milhões de votos) acima do que seria esperado pela receita disponível para o
 partido (R\$ 102 milhões).
 
 
-![](nexo_paper_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
-
+![](/img/marina3.png)
  
 Em contraste, os dois partidos com as maiores receitas, o MDB (R\$135,5) e o PP
 (R\$ 135) receberam uma votação bem inferior ao esperado. O MDB obteve a sexta
