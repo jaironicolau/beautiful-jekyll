@@ -100,7 +100,7 @@ atenção na Figura 1 é a situação do NOVO, partido que não utilizou nenhum
 recurso do fundo partidário e do fundo eleitoral.
 
 
-![](/img/receita_voto_2018_1.png)
+![](/img/unnamed-chunk-2-1.png)
 
  
 A capacidade de um partido eleger deputados depende de uma série de fatores, e o
@@ -119,7 +119,7 @@ de ajuste dos dados (linear) observamos que O PT também obteve uma votação (8
 milhões de votos) acima do que seria esperado pela receita disponível para o
 partido (R\$ 102 milhões).
 
-![](/img/receita_voto_2018_2.png)
+![](/img/unnamed-chunk-3-1.png)
 
 Em contraste, os dois partidos com as maiores receitas, o MDB (R\$135,5) e o PP
 (R\$ 135) receberam uma votação bem inferior ao esperado. O MDB obteve a sexta
@@ -148,8 +148,7 @@ transferidos para as candidatas a deputado federal. Dos 35 partidos que
 disputaram, 17 ultrapassaram os 30%, 17 não ultrapassaram. O NOVO, por não
 utilizar recurso público na campanha, aparece sem valor na figura.
 
- 
-Figura 3
+![](/img/unnamed-chunk-4-1.png)
 
 Entre os maiores partidos, somente o PSDB alocou mais de 30% dos recursos do
 fundo para as candidaturas femininas à deputado federal. Entre as legendas que
