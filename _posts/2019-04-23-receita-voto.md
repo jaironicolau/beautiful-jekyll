@@ -100,7 +100,7 @@ atenção na Figura 1 é a situação do NOVO, partido que não utilizou nenhum
 recurso do fundo partidário e do fundo eleitoral.
 
 
-![](/img/unnamed-chunk-2-1.png)
+![](/img/fig1_receita-partido-tipo-de-fonte.png)
 
  
 A capacidade de um partido eleger deputados depende de uma série de fatores, e o
