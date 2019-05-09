@@ -34,13 +34,13 @@ partidos; b) 35% proporcionalmente à votação obtida pelos partidos nas eleiç
 para Câmara dos Deputados em 2014; c) 48% segundo à bancada dos partidos na
 Câmara dos Deputados; d) 15% segundo à bancada dos partidos no Senado.[^2]
 
-[^2]: Lei 9504, artigo 16-D.
+[^2]:Lei 9504, artigo 16-D.
 
 Foi deixado a critério de cada partido como alocar os recursos do fundo
 eleitoral entre os candidatos e as diferentes unidades da Federação. Uma única
 restrição é que, por decisão do Supremo Tribunal Federal, nas eleições de 2018,
 30% dos recursos deveriam ser utilizados para financiar as campanhas de
-mulheres. [^3]
+mulheres.[^3]
 
 [^3]: https://g1.globo.com/politica/noticia/tse-fundo-eleitoral-deve-destinar-30-dos-recursos-para-campanhas-de-mulheres.ghtml
 
@@ -64,9 +64,9 @@ para Câmara dos Deputados em 2018.[^4] A ideia é explorar dois aspectos do
 financiamento: o uso que os partidos fizeram do fundo eleitoral; o volume de
 recursos efetivamente utilizado pelas candidaturas femininas.
 
-[^4]: As estatísticas sobre os recursos gastos por partidos e candidatos envolve
+[^4]:As estatísticas sobre os recursos gastos por partidos e candidatos envolve
 as receitas e despesas dos candidatos. Neste trabalho optei pelos dados das
-receitas, já que estavam mais organizados neste momento.
+receitas, já que estavam mais organizados nesse momento.
 
 Os dados sobre os gastos de campanha disponibilizados pelo TSE são segmentados
 em diversos tópicos: receitas, despesas, financiadores. Neste trabalho optei por
@@ -94,7 +94,7 @@ estão segmentadas segundo os critérios de apresentação dos dados definidos p
 Justiça Eleitoral. Os quatro partidos com as maiores bancadas no momento da
 eleição (MDB, PT, PSDB e PP) estão entre os cinco com maior receita. A surpresa
 é o PR com a terceira maior receita, isso por conta da alta transferência dos
-recursos do fundo partidário - o partido foi o que mais usou os recursos do
+recursos do fundo partidário; o partido foi o que mais usou os recursos do
 fundo para financiar a campanha de deputado federal. O outro dado que chama a
 atenção na Figura 1 é a situação do NOVO, partido que não utilizou nenhum
 recurso do fundo partidário e do fundo eleitoral.
@@ -112,7 +112,7 @@ dispersão com as receitas e os votos de cada partido obtidos em âmbito naciona
 
 A Figura 2 mostra o resultado da relação entre receitas e votos para deputado
 federal em 2018. O dado que mais chama a atenção na figura é a posição do PSL. O
-partido é claramente um *outlier*: com uma receita final de 21,9 milhões, valor
+partido é claramente um *outlier*: com uma receita final de 21,9 milhões. Com valor
 bem inferior à receita de outros 18 partidos, o PSL foi o mais votado para a
 Câmara dos Deputados, recebendo R\$ 10,3 milhões de votos. Se olharmos a linha
 de ajuste dos dados (linear) observamos que O PT também obteve uma votação (8,8
@@ -122,7 +122,7 @@ partido (R\$ 102 milhões).
 ![](/img/fig2_nexo-1.png)
 
 Em contraste, os dois partidos com as maiores receitas, o MDB (R\$135,5) e o PP
-(R\$ 135) receberam uma votação bem inferior ao esperado. O MDB obteve a sexta
+(R\$ 135) receberam uma votação bem inferior ao esperado: O MDB obteve a sexta
 votação (5,1 milhões de votos) e o PP a sétima (5 milhões de votos). A
 expectativa de que o novo fundo eleitoral, associado a uma campanha curta,
 favoreceriam os maiores partidos acabou não se efetivando para os dois partidos
@@ -193,6 +193,6 @@ Dessa exploração inicial, destaco quatro pontos:
     mulheres, isso não ocorreu. Metade dos partidos, entre eles os mais
     importantes, não cumpriram a regra.
 
-No próximo texto pretendo fazer uma análise a respeito da concentração dos
+No próximo texto pretendo fazer uma análise da concentração dos
 recursos entre os concorrentes, bem como se houve alguma assimetria na
 distribuição de recursos por gênero de cada candidato e partido.
