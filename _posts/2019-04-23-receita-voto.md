@@ -60,12 +60,12 @@ A terceira é o autofinanciamento; ou seja, candidatos podem gastar seus recurso
 para financiar suas campanhas, caso em que não há limites para os gastos.
 
 O propósito deste artigo é apresentar um quadro do financiamento das eleições
-para Câmara dos Deputados em 2018.[^4] A ideia é explorar dois aspectos do
+para Câmara dos Deputados em 2018. A ideia é explorar dois aspectos do
 financiamento: o uso que os partidos fizeram do fundo eleitoral; o volume de
-recursos efetivamente utilizado pelas candidaturas femininas.
-
-[^4]:As estatísticas sobre os recursos gastos por partidos e candidatos envolve 
-as receitas e despesas dos candidatos. Neste trabalho optei pelos dados dasreceitas, já que estavam mais organizados nesse momento.
+recursos efetivamente utilizado pelas candidaturas femininas. As estatísticas 
+sobre os recursos gastos por partidos e candidatos envolve 
+as receitas e despesas dos candidatos. Neste trabalho optei pelos dados 
+das receitas, já que estavam mais organizados nesse momento.
 
 Os dados sobre os gastos de campanha disponibilizados pelo TSE são segmentados
 em diversos tópicos: receitas, despesas, financiadores. Neste trabalho optei por
